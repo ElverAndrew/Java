@@ -6,7 +6,7 @@ package molinoscomolsa;
 
 /**
  *
- * @author Lady
+ * @author Elver Andrew Quevedo Valer
  */
 public class MolinosComolsa {
 
